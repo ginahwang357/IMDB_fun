@@ -1,6 +1,6 @@
 # IMDB_fun
 
-Just a bit of fun. Run for graphs about top.
+Super simple and just a bit of fun. 
 <br>
 <br>
 Thank you creators of magrittr and rvest.
